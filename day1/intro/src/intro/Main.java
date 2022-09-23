@@ -2,7 +2,7 @@ package intro;
 
 public class Main {
 
-	public static void main(String[] args) {		//Main Java'da başlangıç noktasıdır.
+	public static void main(String[] args) {		//Main Java'da başlangıç noktasıdır
 		
 		System.out.println("Hello World!");		//sys yazdıktan sonra ctrl+space basarak hazır kodlara ulaşılır.
 												
