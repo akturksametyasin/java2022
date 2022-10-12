@@ -18,7 +18,7 @@ public class Main {
 		
 		sayilar2[0] = 1000;
 		
-		System.out.println(sayilar1[0]);		//answer is sayilar1[0] = 1000
+		System.out.println(sayilar1[0]);.		//answer is sayilar1[0] = 1000
 	}
 
 }
