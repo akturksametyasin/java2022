@@ -16,7 +16,7 @@ public class Main {		//değişkenler
 		System.out.println(mesaj + ogrenciSayisi);
 		System.out.println(mesaj + ogrenciSayisi);
 		System.out.println(mesaj + ogrenciSayisi);
-		System.out.println(mesaj + ogrenciSayisi);	.	//değişkenler ile yazıldığında değişken değiştirildiğinde her yer değişir ve kolaylık sağlar.
+		System.out.println(mesaj + ogrenciSayisi);		//değişkenler ile yazıldığında değişken değiştirildiğinde her yer değişir ve kolaylık sağlar.
 		
 	}
 
