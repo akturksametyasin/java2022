@@ -10,7 +10,7 @@ public class Main {
 		product.price = 10;
 		product.name = "";
 		
-		manager.add(product);.
+		manager.add(product);
 		
 	}
 
