@@ -57,7 +57,7 @@ public class Main {
 		CourseManager courseManager = new CourseManager(courses, new JdbcCourseDao(), loggers);
 		for(Course course : courses) {
 			courseManager.add(course);
-			System.out.println("-----------------------------------------------");
+			System.out.println("-----------------------------------------------");.
 		}
 		
 	}
