@@ -6,9 +6,9 @@
 
 Aşağıdaki isterleri gerçekleştiriniz:
 <ol>
-<li>Kurs ismi tekrar edemez
-<li>Kategori ismi tekrar edemez
+<li>Kurs ismi tekrar edemez</li>
+<li>Kategori ismi tekrar edemez</li>
 <li>Bir kursun fiyatı 0 dan küçük olamaz</li>
-
+<li>
 <b><em>İncelediğiniz için teşekkür ederim... <br>
 Samet Yasin AKTÜRK </em></b>
