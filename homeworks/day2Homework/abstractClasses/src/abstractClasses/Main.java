@@ -13,4 +13,4 @@ public class Main {
 		GameCalculator gameCalculator = new WomanGameCalculator();		//gameCalculator holds the reference value of the WomanGameCalculator.
 	}
 
-}.
+}
