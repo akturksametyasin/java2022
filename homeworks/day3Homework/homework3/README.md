@@ -12,5 +12,7 @@ Aşağıdaki isterleri gerçekleştiriniz:
 <li>Kategori ismi tekrar edemez</li>
 <li>Bir kursun fiyatı 0 dan küçük olamaz</li>
 
+</br>
+
 <b><em>İncelediğiniz için teşekkür ederim... <br>
 Samet Yasin AKTÜRK </em></b>
