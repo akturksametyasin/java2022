@@ -1,4 +1,4 @@
-#day3Homework-3 Instructions
+# day3Homework-3 Instructions
 
 1. <a href="https://www.kodlama.io/" src="link">kodlama.io</a> web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
 2. Önceki derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış gibi simüle ediniz.
