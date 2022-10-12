@@ -1,6 +1,6 @@
 # day3Homework-2 Instructions
 
-- <a href="https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8" src="link">
+- <a href="https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8" src="link">JAVA Dersleri</a> 
 * Bu oynatma listesini 33. dersten itibaren sonuna kadar tekrar izleyip uygulayınız.
 
 
