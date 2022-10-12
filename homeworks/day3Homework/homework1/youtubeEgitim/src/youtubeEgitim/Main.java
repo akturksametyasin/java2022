@@ -20,5 +20,5 @@ public class Main {
 		
 		System.out.println(sayilar1[0]);		//answer is sayilar1[0] = 1000
 	}
-
+.
 }
