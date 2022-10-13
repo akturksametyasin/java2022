@@ -1,6 +1,6 @@
 # day3Homework-2 Instructions
 
-* <a href="https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8" src="link">JAVA Dersleri</a> 
+* [JAVA Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8)
 * Watch and apply again this playlist from lesson 33 to the end.
 
 ---
