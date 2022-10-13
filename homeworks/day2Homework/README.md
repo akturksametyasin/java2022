@@ -1,6 +1,6 @@
 # day2Homework Instructions
 
-* <a href="https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8" src="link">JAVA Dersleri</a> 
+* [JAVA Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8)
 * Watch and apply the videos in this playlist between 24-37.
 * Upload your codes to github.
 ---
