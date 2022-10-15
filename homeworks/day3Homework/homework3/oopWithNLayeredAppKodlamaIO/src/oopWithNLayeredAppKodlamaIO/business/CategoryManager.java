@@ -5,14 +5,14 @@ import oopWithNLayeredAppKodlamaIO.dataAccess.categoryDao.CategoryDao;
 import oopWithNLayeredAppKodlamaIO.entities.Category;
 
 public class CategoryManager {
-	private Category[] categories;
 	private CategoryDao categoryDao;
 	private Logger[] loggers;
-
-	public CategoryManager(Category[] categories, CategoryDao categoryDao, Logger[] loggers) {
-		this.categories = categories;
+	private Category[] categories;
+	
+	public CategoryManager(CategoryDao categoryDao, Logger[] loggers) {
 		this.categoryDao = categoryDao;
 		this.loggers = loggers;
+		this.categories = categoryDao.getAllCategories();
 	}
 
 	public void add(Category category) throws Exception {
