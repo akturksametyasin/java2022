@@ -17,7 +17,7 @@ public class CategoryManager {
 
 	public void add(Category category) throws Exception {
 		for (Category ctgry : categories) {
-			if(ctgry.getName() == category.getName() && ctgry != category) {
+			if(ctgry.getName() == category.getName()) {
 				throw new Exception("Kategori isimleri aynı olamaz!");
 			}
 		}

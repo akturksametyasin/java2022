@@ -17,7 +17,7 @@ public class CourseManager {
 	
 	public void add(Course course) throws Exception {
 		for (Course crs : courses) {
-			if((crs.getName() == course.getName() && crs != course)) {
+			if((crs.getName() == course.getName())) {
 				throw new Exception("Kurs isimleri aynı olamaz!");
 			}
 			if(course.getPrice()<0) {
