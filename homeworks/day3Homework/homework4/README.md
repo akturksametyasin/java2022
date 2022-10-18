@@ -6,7 +6,7 @@
 ---
 
 This repository contains the codes in the article I wrote for interfaces.
-[Click to read my articles](https://medium.com/@akturk.sametyasin)
+> [Click to read my articles](https://medium.com/@akturk.sametyasin)
 
 ---
 <b><em>Thank you for viewing... <br>
